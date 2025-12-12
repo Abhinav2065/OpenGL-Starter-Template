@@ -1,1 +1,1 @@
-# MazeSolvingAlgorithmVisualization
+## This is an template repo which has simple starting code to OpenGl which you can use while working on your own OpenGL project insted of starting from scratch. 
