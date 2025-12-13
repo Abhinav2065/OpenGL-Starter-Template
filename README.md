@@ -1,1 +1,7 @@
-## This is an template repo which has simple starting code to OpenGl which you can use while working on your own OpenGL project insted of starting from scratch. 
+## OpenGL Starter Template
+
+
+This is an easy to use template to make any projects on openGl so you do not have to start from the scratch.
+
+
+
